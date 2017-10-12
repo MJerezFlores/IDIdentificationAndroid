@@ -2,4 +2,5 @@
     <string name="app_name">"ID Information "</string>
     <string name="hint_id">please enter your ID number</string>
     <string name="submit_button">Submit</string>
+    <string name="textview">Your id information will be displayed here</string>
 </resources>
